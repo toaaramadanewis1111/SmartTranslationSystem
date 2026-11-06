@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Model files
+*.pt
+*.pth
+*.onnx
+*.h5
+*.pkl
+
+# Temporary files
+temp/
+tmp/
+uploads/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

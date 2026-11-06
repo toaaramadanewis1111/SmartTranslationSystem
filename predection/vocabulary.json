@@ -1,0 +1,137 @@
+
+{
+  "dataset_version": "1.0",
+  "languages": ["en", "ar", "fr", "es", "de", "zh", "ja"],
+  "vocabulary": [
+    {
+      "concept_id": "TR001",
+      "topic": "Travel",
+      "translations": {
+        "en": "Train",
+        "ar": "قطار",
+        "fr": "Train",
+        "es": "Tren",
+        "de": "Zug",
+        "zh": "火车",
+        "ja": "電車"
+      }
+    },
+    {
+      "concept_id": "TR002",
+      "topic": "Travel",
+      "translations": {
+        "en": "Hotel",
+        "ar": "فندق",
+        "fr": "Hôtel",
+        "es": "Hotel",
+        "de": "Hotel",
+        "zh": "酒店",
+        "ja": "ホテル"
+      }
+    },
+    {
+      "concept_id": "TR003",
+      "topic": "Travel",
+      "translations": {
+        "en": "Airport",
+        "ar": "مطار",
+        "fr": "Aéroport",
+        "es": "Aeropuerto",
+        "de": "Flughafen",
+        "zh": "机场",
+        "ja": "空港"
+      }
+    },
+    {
+      "concept_id": "TR004",
+      "topic": "Travel",
+      "translations": {
+        "en": "Ticket",
+        "ar": "تذكرة",
+        "fr": "Billet",
+        "es": "Billete",
+        "de": "Fahrkarte",
+        "zh": "票",
+        "ja": "切符"
+      }
+    },
+    {
+      "concept_id": "TR005",
+      "topic": "Travel",
+      "translations": {
+        "en": "Bus",
+        "ar": "حافلة",
+        "fr": "Bus",
+        "es": "Autobús",
+        "de": "Bus",
+        "zh": "公交车",
+        "ja": "バス"
+      }
+    },
+    {
+      "concept_id": "TR006",
+      "topic": "Travel",
+      "translations": {
+        "en": "Passport",
+        "ar": "جواز سفر",
+        "fr": "Passeport",
+        "es": "Pasaporte",
+        "de": "Reisepass",
+        "zh": "护照",
+        "ja": "パスポート"
+      }
+    },
+    {
+      "concept_id": "TR007",
+      "topic": "Travel",
+      "translations": {
+        "en": "Luggage",
+        "ar": "أمتعة",
+        "fr": "Bagages",
+        "es": "Equipaje",
+        "de": "Gepäck",
+        "zh": "行李",
+        "ja": "荷物"
+      }
+    },
+    {
+      "concept_id": "TR008",
+      "topic": "Travel",
+      "translations": {
+        "en": "Restaurant",
+        "ar": "مطعم",
+        "fr": "Restaurant",
+        "es": "Restaurante",
+        "de": "Restaurant",
+        "zh": "餐厅",
+        "ja": "レストラン"
+      }
+    },
+    {
+      "concept_id": "TR009",
+      "topic": "Travel",
+      "translations": {
+        "en": "Reservation",
+        "ar": "حجز",
+        "fr": "Réservation",
+        "es": "Reserva",
+        "de": "Reservierung",
+        "zh": "预订",
+        "ja": "予約"
+      }
+    },
+    {
+      "concept_id": "TR010",
+      "topic": "Travel",
+      "translations": {
+        "en": "Tourist attraction",
+        "ar": "معلم سياحي",
+        "fr": "Attraction touristique",
+        "es": "Atracción turística",
+        "de": "Sehenswürdigkeit",
+        "zh": "旅游景点",
+        "ja": "観光名所"
+      }
+    }
+  ]
+}

@@ -1,0 +1,759 @@
+﻿cid,en,ar,fr,es,de,zh,ja,languages_present
+10006,where,أين,où,dónde,wo,哪儿 (orth:pīnyīn nǎr),どちら,7
+100171,,وَ,,,,,そして,2
+100175,,ثُمَّ,puis / ensuite,,,,それから,3
+100233,,,alors,,,,それでは,2
+100235,then,,alors,entonces,also,那 (orth:pīnyīn nà),じゃあ,6
+100256,,إِلَّا أَنَّ / غَيْرَ أَنَّ / لٰكِنَّ / وَلٰكِنَّ / وَلٰكِنْ,mais,,,,しかし,3
+100272,,,mais,,,,でも,2
+100362,,,pourquoi,,,,なぜ,2
+100367,,,pourquoi,,,,どうして,2
+100403,,,ah,,,,ああ,2
+100460,,,allez,,,,さあ,2
+100468,Excuse me.,لو سمحت,pardon / euh,perdón,Entschuldigung,不好意思 (orth:pīnyīn bùhǎoyìsi),あの(2),7
+10053,,,endroit / lieu,,,,所,2
+100538,probably,رُبَّمَا,peut-être,quizá,wahrscheinlich,也许 (orth:pīnyīn yěxǔ) / 大概 (orth:pīnyīn dàgài),たぶん,7
+100754,,أَلُو,allô,,,,もしもし,3
+100772,please,تفضل,s'il vous plaît / je vous en prie,servir / aquí tiene / adelante,gern geschehen / bitte,别客气 (orth:pīnyīn biékèqi) / 请 (orth:pīnyīn qǐng),どうぞ,7
+100789,,,oui,,,,はい,2
+100800,yes,نَعَمْ,oui,sí,ja,好 (orth:pīnyīn hǎo),ええ,7
+100827,no,لا / بَلَى,non,no,nein,不 (orth:pīnyīn bù),いいえ,7
+100928,so,إِذَا,alors,hasta luego,dann,那 (orth:pīnyīn nà),では,7
+10124,,عُنْوَانٌ,,,,,住所,2
+10137,ahead,قَبْلَ,avenir / avant / à l'avance,adelante,vorn,前面 (orth:pīnyīn qiánmian),,6
+10765,here,,ici,aquí,hier,这儿 (orth:pīnyīn zhèr),こちら,6
+10766,,,ici,,,,こっち,2
+10779,,,là-bas,,,,向こう,2
+10903,east,شرق / شَرْقٌ,est,este,Osten,东边 (orth:pīnyīn dōngbian),東,7
+10905,west,غرب / غَرْبٌ,ouest,oeste,Westen,西边 (orth:pīnyīn xībian),西,7
+10910,south,جنوب / جَنُوبٌ,sud,sur,Süden,南边 (orth:pīnyīn nánbian),南,7
+10912,north,شَمَالٌ,nord,norte,Norden,北边 (orth:pīnyīn běibian),北,7
+10954,left,يسار (morph:pl يسرى) / يَسَارٌ,gauche,izquierda,links,左边 (orth:pīnyīn zuǒbian),左,7
+10956,right,يَمِينٌ,droit,derecha,rechts,右边 (orth:pīnyīn yòubian),右,7
+10981,front,أَمَامَ,devant,delante,vor,前面 (orth:pīnyīn qiánmian),前,7
+10983,back,وَرَاءَ / خلف,derrière,atrás,hinter,后面 (orth:pīnyīn hòumian),うしろ,7
+10985,after,بَعْدُ,derrière / après,atrás,hinten,后面 (orth:pīnyīn hòumian),,6
+11034,vertical,طول (morph:pl أطوال),,largo,Länge,竖 (orth:pīnyīn shù),縦,6
+11035,side,عرض,largeur,lado,,横 (orth:pīnyīn héng),横,6
+11063,up,فَوْقَ,sur / au-dessus,arriba,über,上 (orth:pīnyīn shang),上,7
+11065,down,تَحْتَ,sous / au-dessous,abajo,unter,下面 (orth:pīnyīn xiàmian),下,7
+11392,,,côté,,,,～側,2
+11437,outside,خَارِجٌ,dehors,fuera,draußen,外面 (orth:pīnyīn wàimian),外,7
+11443,in,فِي,dedans,dentro,Mitte,里边 (orth:pīnyīn lǐbian),中,7
+11633,by,جانب (morph:pl جوانب) / جَانِبٌ,près de,al lado de / lado,neben,旁边 (orth:pīnyīn pángbiān),そば,7
+11678,next,,voisin / côté,al lado de,,旁边 (orth:pīnyīn pángbiān),隣,5
+11706,near,قَرِيبٌ / بالقرب من,près de,cerca,Nähe,附近 (orth:pīnyīn fùjìn),近く,7
+1177,,مُعَارَضَةٌ,,,,,反対,2
+12060,,,coin,,,,角,2
+12247,exit,مخرج (morph:pl مخارج),sortie,salida,Ausgang,出口 (orth:pīnyīn chūkǒu),出口,7
+12249,entrance,مَدْخَلٌ,entrée,entrada,Eingang,入口 (orth:pīnyīn rùkǒu),入口,7
+12639,,ثَمَنٌ,faire,,,,,2
+12864,,,numéro,,,,番号,2
+13006,many people,عدد كبير من,beaucoup de gens / un grand nombre de,muchos,viele Leute,众多 (orth:pīnyīn zhòngduō),大勢,7
+13195,height,ارتفاع,,altura,Höhe,高 (orth:pīnyīn gāo),,5
+13993,,,tout,,,,全部,2
+14011,everyone,جَمِيعٌ,tout le monde,todo el mundo,alle,大家 (orth:pīnyīn dàjiā),みんな,7
+14012,,,tout le monde,,,,皆さん,2
+14143,,,demi / moitié,,,,半分,2
+14146,,,demi,,,,半,2
+14320,,,etc.,,,,～など,2
+14326,,,zéro,,,,零,2
+14327,,صِفْرٌ,zéro,,,,ゼロ,3
+14329,,اَلْحَادِي,,,,,一,2
+14335,,ثَلَاثَةٌ,trois,,,,～さん / 三,3
+14337,,,quatre,,,,四,2
+14338,,خَمْسَةٌ,cinq,,,,五,3
+14339,,,six,,,,六,2
+14340,,سَبْعَةٌ,sept,,,,七,3
+14341,,ثَمَانِيَةٌ,huit,,,,八,3
+14343,,,neuf,,,,九,2
+14344,,,neuf,,,,九,2
+14365,,,un,,,,一つ,2
+14366,,,deux,,,,二つ,2
+14367,,,trois,,,,三つ,2
+14368,,,quatre,,,,四つ,2
+14369,,,cinq,,,,五つ,2
+14370,,,six,,,,六つ,2
+14371,,,sept,,,,七つ,2
+14372,,,huit,,,,八つ,2
+14373,,,neuf,,,,九つ,2
+14375,,عَشَرَةٌ,dix,,,,十,3
+14395,,,dix,,,,十,2
+14414,,,cent,,,,百,2
+14441,,,mille,,,,千,2
+14463,,,dix mille,,,,万,2
+14563,,,une personne,,,,一人,2
+14564,,,deux personnes,,,,二人,2
+14588,,,deux jours,,,,二日,2
+14589,,,trois jours,,,,三日,2
+14590,,,quatre jours,,,,四日,2
+14591,,,cinq jours,,,,五日,2
+14592,,,six jours,,,,六日,2
+14595,,,sept jours,,,,七日,2
+14596,,,huit jours,,,,八日,2
+14598,,,neuf jours,,,,九日,2
+14600,,,dix jours,,,,十日,2
+14623,month,شَهْرٌ,un mois,un mes,Monat,一个月 (orth:pīnyīn yígeyuè),,6
+14656,How many,كَمْ,combien,cuántos,wie viel,几 (orth:pīnyīn jǐ),いくつ,7
+14658,How much,بكم / بِكَمْ,combien,cuánto,was,多少 (orth:pīnyīn duōshao),いくら,7
+14674,January,يناير / يَنَايِرُ / كَانُونَ ٱلثَّانِي,janvier,enero,Januar,一月 (orth:pīnyīn yīyuè),,6
+14675,February,فَبْرَايِرُ / فبراير / شُبَاطُ,février,febrero,Februar,二月 (orth:pīnyīn èryuè),,6
+14676,March,مارس / مَارْسُ / آذَارُ,mars,marzo,März,三月 (orth:pīnyīn sānyuè),,6
+14677,April,أبرير / أَبْرِيلُ / نِيسَانُ,avril,abril,April,四月 (orth:pīnyīn sìyuè),,6
+14679,June,يونيو / يُونِيُو / حَزِيرَانُ,juin,junio,Juni,六月 (orth:pīnyīn liùyuè),,6
+14680,July,يوليو / يُولِيُو / تَمُّوزُ,juillet,julio,Juli,七月 (orth:pīnyīn qīyuè),,6
+14681,August,أغسطس / أَغْسُطْسُ / آبُ,août,agosto,August,八月 (orth:pīnyīn bāyuè),,6
+14682,September,سَبْتَمْبِرُ / سبتمبر / أَيْلُولُ,septembre,septiembre,September,九月 (orth:pīnyīn jiǔyuè),,6
+14683,October,أكتوبر / أُكْتُوبِرُ / تِشْرِينُ ٱلْأَوَّلُ,octobre,octubre,Oktober,十月 (orth:pīnyīn shíyuè),,6
+14684,November,نوفمبر / نُوفِمْبِرُ / تِشْرِينُ ٱلثَّانِي,novembre,noviembre,November,十一月 (orth:pīnyīn shíyīyuè),,6
+14685,December,ديسمبر / دِيسَمْبِرُ / كَانُونُ ٱلْأَوَّلُ,décembre,diciembre,Dezember,十二月 (orth:pīnyīn shíèryuè),,6
+147,,هذا / هذه,ceci,,,,これ,3
+14870,,,âge,,,,～歳,2
+14871,year,سَنَةٌ,an / année,año,Jahr,年 (orth:pīnyīn nián),～年,7
+14882,,,mois,,,,～月,2
+14885,,,mois,,,,～か月,2
+14890,week,أُسْبُوعٌ,semaine,semana,Woche,一个星期 (orth:pīnyīn yígexīngqī),,6
+14892,,,jour,,,,～日,2
+14900,time,,heure,hora,Uhr,点 (orth:pīnyīn diǎn),～時,6
+14901,time,وَقْتٌ,heure,hora,Zeit,小时 (orth:pīnyīn xiǎoshí),時間 / ～時間,7
+14903,,,minute,,,,～分,2
+14911,,,mètre,metro,,,～メートル,3
+15001,,,gramme,,,,～グラム,2
+15048,degree,درجة حرارة,degré,grado,Grad,度 (orth:pīnyīn dù),～度,7
+15069,,مَرَّةٌ,fois,,,,～回,3
+15092,floor,طابق (morph:pl طوابق),étage,piso,Stock,楼 (orth:pīnyīn lóu),～階,7
+15189,,,tasse de / verre de,,,,～杯,2
+15216,,,exemplaire,,Exemplar / Blatt,本 (orth:pīnyīn běn) / 张 (orth:pīnyīn zhāng),～冊,4
+15221,,صَفْحَةٌ,page,,,,～ページ,3
+153,,,ça / cela,,,,それ,2
+15325,,,yen,,,,～円,2
+15352,he / she,إِنْسَانِيٌّ,,,,,,2
+15353,person,إِنْسَانٌ / ناس,personne / homme / on,hombre,Mensch,人 (orth:pīnyīn rén),人,7
+15423,,,madame / mademoiselle,,,,～方,2
+15430,,آنِسَةٌ / سَيِّدٌ,madame / mademoiselle / Monsieur,,,,,2
+15475,,,je / moi,,,,私,2
+15476,I,أَنَا,je / moi,yo,ich,我 (orth:pīnyīn wǒ),わたし,7
+15479,we,نحن,nous / on,nosotros,wir,我们 (orth:pīnyīn wǒmen),,6
+15524,you,حَضْرَتُكَ,vous,usted,Sie,您 (orth:pīnyīn nín),あなた,7
+15525,,أنتم,vous,ustedes,,,,3
+15527,you,أَنْتَ,tu,tú,du,你 (orth:pīnyīn nǐ),,6
+15576,,هُوَ,il,él,er,,,4
+15578,they,هم / هي / هو,elle / elles,ella,sie,他 (orth:pīnyīn tā) / 他们 (orth:pīnyīn tāmen),,6
+15603,who,من,qui / personne,quién,wer,谁 (orth:pīnyīn shéi),だれ,7
+15605,who,,qui,quién,,谁 (orth:pīnyīn shéi) / 哪位 (orth:pīnyīn něiwèi),どなた,5
+15612,someone,أَحَدٌ,quelqu'un,alguien,jemand,有人 (orth:pīnyīn yǒurén),だれか,7
+15636,oneself,نَفْسٌ,soi,sí mismo,selber,自己 (orth:pīnyīn zìjǐ),自分,7
+159,,ذلك / تلك,ça / cela,,,,あれ,3
+15939,man,رَجُلٌ,homme,hombre,Mann,男的 (orth:pīnyīn nánde),男,7
+15944,boy,وَلَدٌ,garçon,chico,Junge,男孩子 (orth:pīnyīn nánháizi),男の子,7
+15965,woman,نساء,femme,mujer,Frau,女的 (orth:pīnyīn nǚde),女,7
+16081,girl,بِنْتٌ,jeune fille,chica,Mädchen,女孩子 (orth:pīnyīn nǚháizi),,6
+16114,child,طِفْلٌ,enfant,niño,Kind,孩子 (orth:pīnyīn háizi),子ども,7
+16184,adult,كبار,adulte,adulto,Erwachsene,成年人 (orth:pīnyīn chéngniánrén),大人,7
+16223,grandfather,جَدٌّ,grand-père,abuelo,Großvater,爷爷 (orth:pīnyīn yéye),おじいさん,7
+16229,grandmother,جَدَّةٌ,grand-mère,abuela,Großmutter,奶奶 (orth:pīnyīn nǎinai) / 姥姥 (orth:pīnyīn lǎolao),おばあさん,7
+16247,family,أَهْلٌ / أسرة (morph:pl أسر),famille,familia,Familie,家人 (orth:pīnyīn jiārén),家族,7
+163,,,lequel,,,,どれ,2
+16331,couple,زوجان,couple,matrimonio,Ehepaar,夫妻 (orth:pīnyīn fūqī),,6
+16343,husband,زوح (morph:pl أزواج),mari,marido,Mann,丈夫 (orth:pīnyīn zhàngfu),,6
+16364,wife,زوجة (morph:pl زوجات),femme,mujer,Frau,妻子 (orth:pīnyīn qīzi),,6
+16402,wife,,madame,mujer,Frau,老婆 (orth:pīnyīn lǎopo),奥さん,6
+16488,parents,والدان,parents,padres,Eltern,父母 (orth:pīnyīn fùmǔ),両親,7
+16495,father,وَالِدٌ / أَبَوِيٌّ,père,padre,Vater,父亲 (orth:pīnyīn fùqin),父,7
+16496,mother,والدة (morph:pl والدات),mère,madre,Mutter,妈妈 (orth:pīnyīn māma),母,7
+16500,dad,أَبٌ,père,padre,,爸爸 (orth:pīnyīn bàba),お父さん,6
+16507,mom,أُمٌّ,mère,madre,,妈妈 (orth:pīnyīn māma),お母さん,6
+16780,brother,أَخٌ,frère,hermano,Geschwister,兄弟 (orth:pīnyīn xiōngdì),兄弟,7
+16785,brother,,frère,hermano,Bruder,哥哥 (orth:pīnyīn gēge),兄,6
+16797,brother,,frère,hermano,Bruder,哥哥 (orth:pīnyīn gēge),お兄さん,6
+16799,sister,,sœur,hermana,,姐妹 (orth:pīnyīn jiěmèi),姉,5
+16806,sister,,sœur,hermana,Schwester,姐姐 (orth:pīnyīn jiějie),お姉さん,6
+16809,,,frère,hermano,,,弟,3
+16811,,,sœur,hermana,,,妹,3
+16866,uncle,عَمٌّ / خَالٌ,oncle,tío,Onkel,伯父 (orth:pīnyīn bófù) / 叔父 (orth:pīnyīn shūfù) / 姑夫 (orth:pīnyīn gūfu) / 舅父 (orth:pīnyīn jiùfù) / 姨夫 (orth:pīnyīn yífu),,6
+16869,aunt,عمة (morph:pl عمات) / خَالَةٌ,tante,tía,Tante,婶母 (orth:pīnyīn shěnmǔ) / 姨母 (orth:pīnyīn yímǔ),,6
+16892,cousin,اِبْنُ عَمٍّ,cousin,primo,Cousin,,,5
+17007,friend,صَدِيقٌ,ami / copain,amigo,Freund,朋友 (orth:pīnyīn péngyou),友達,7
+171,,مَا,,,,,何,2
+172,,مَاذَا,qu'est-ce que / quel,,,,,2
+17210,,يَابَانِيٌّ,japonais,,,,,2
+17302,foreigner,أجنبي (morph:pl أجانب) / أَجْنَبِيٌّ,étranger,extranjero,Ausländer,外国人 (orth:pīnyīn wàiguórén),外国人,7
+187,,جِهَةٌ,,,,,ほう,2
+19186,teacher,أُسْتَاذٌ,instituteur / professeur / enseignant,profesor,Lehrer,老师 (orth:pīnyīn lǎoshī),先生,7
+19217,doctor,طَبِيبٌ,médecin / docteur,médico,Arzt,大夫 (orth:pīnyīn dàifu),医者,7
+20056,police officer,شُرْطِيٌّ / شرطي (morph:pl شرطيون),policier,policía,,警察 (orth:pīnyīn jǐngchá),警官,6
+20065,officer,,agent,policía,Polizist,警察 (orth:pīnyīn jǐngchá),おまわりさん,6
+20240,student,طَالِبٌ,étudiant,estudiante,Student,学生 (orth:pīnyīn xuésheng),学生,7
+20241,student,تِلْمِيذٌ,élève / étudiant,alumno,Schüler,学生 (orth:pīnyīn xuésheng),生徒,7
+20281,foreign student,طالب أجنبي (morph:pl طلاب أجانب),étudiant étranger,estudiante extranjero,ausländischer Student,留学生 (orth:pīnyīn liúxuéshēng),留学生,7
+21220,home,عَائِلَةٌ,famille,hogar,Familie,家庭 (orth:pīnyīn jiātíng),家庭,7
+21338,country,بِلَادٌ / بَلَدٌ,pays,país,Land,国家 (orth:pīnyīn guójiā),国,7
+21365,foreign country,,étranger,extranjero,Ausland,外国 (orth:pīnyīn wàiguó),外国,6
+21710,,بَلْدَةٌ,ville,,,,町,3
+21712,,,village,,,,村,2
+221,,,vérité,,,,本当,2
+22471,school,مَدْرَسَةٌ / مَدْرَسِيٌّ,école,colegio,Schule,学校 (orth:pīnyīn xuéxiào),学校,7
+22500,classroom,,classe,aula,Klassenzimmer,教室 (orth:pīnyīn jiàoshì),教室,6
+22517,university,جَامِعَةٌ,université,universidad,Universität,大学 (orth:pīnyīn dàxué),大学,7
+22666,company,شركة (morph:pl شركات) / شَرِكَةٌ,entreprise / société / compagnie / firme,empresa,Firma,公司 (orth:pīnyīn gōngsī),会社,7
+22692,bank,مَصْرَفٌ / بَنْكٌ,banque,banco,Bank,银行 (orth:pīnyīn yínháng),銀行,7
+22785,station,مَحَطَّةٌ,gare / station,estación,Bahnhof,车站 (orth:pīnyīn chēzhàn),駅,7
+22807,,مَطَارٌ,,,,,空港,2
+22810,pool,مسبح (morph:pl مسابح),piscine,piscina,Schwimmbad,游泳池 (orth:pīnyīn yóuyǒngchí),プール,7
+22828,store,مَحَلٌّ / دُكَّانٌ,magasin / boutique,tienda,Laden,商店 (orth:pīnyīn shāngdiàn),店,7
+22831,,,-erie,,,,～屋,2
+22888,restaurant,مَطْعَمٌ,restaurant,restaurante,Restaurant,餐厅 (orth:pīnyīn cāntīng),レストラン,7
+22896,dining room,,cantine / salle à manger,comedor,Mensa,食堂 (orth:pīnyīn shítáng),食堂,6
+22917,coffee shop,مَقْهًى,café,cafetería,Café,咖啡厅 (orth:pīnyīn kāfēitīng),喫茶店,7
+22952,vegetable shop,,marchand de légumes,frutería,Gemüsehändler,菜铺 (orth:pīnyīn càipù),八百屋,6
+23049,department store,مركز تجاري (morph:pl مراكز تجارية),grand magasin,grandes almacenes,Kaufhaus,百货公司 (orth:pīnyīn bǎihuògōngsī),デパート,7
+23065,hotel,فُنْدُقٌ,hôtel,hotel,Hotel,饭店 (orth:pīnyīn fàndiàn),ホテル,7
+23103,hospital,مُسْتَشْفًى,hôpital,hospital,Krankenhaus,医院 (orth:pīnyīn yīyuàn),病院,7
+23121,library,مَكْتَبَةٌ,bibliothèque,biblioteca,Bibliothek,图书馆 (orth:pīnyīn túshūguǎn),図書館,7
+23133,,,cinéma,,,,映画館,2
+23140,park,حَدِيقَةٌ,parc / jardin,parque,Park,公园 (orth:pīnyīn gōngyuán),公園,7
+23216,police box,مخفر الشرطة,poste de police,comisaría,Polizeiwache,派出所 (orth:pīnyīn pàichūsuǒ),交番,7
+23402,embassy,سِفَارَةٌ,ambassade,embajada,Botschaft,大使馆 (orth:pīnyīn dàshǐguǎn),大使館,7
+23439,post office,مكتب البريد,poste,correo,Post,邮局 (orth:pīnyīn yóujú),郵便局,7
+23913,class,صَفٌّ,classe,clase,Klasse,班 (orth:pīnyīn bān),クラス,7
+25605,voice,صَوْتٌ,voix,voz,Stimme,声音 (orth:pīnyīn shēngyīn),声,7
+26691,practice,تمرين (morph:pl تمارين،تمرينات),exercice,ejercicio,Übung,练习 (orth:pīnyīn liànxí),練習,7
+26775,study,دِرَاسَةٌ / دراسة (morph:pl دراسات),étude,estudio,Studium,学习 (orth:pīnyīn xuéxí),勉強,7
+27779,exam,اِمْتِحَانٌ,examen,examen,Prüfung,考试 (orth:pīnyīn kǎoshì),テスト,7
+28234,meaning,مَعْنَى,sens / signification,significado,Bedeutung,意思 (orth:pīnyīn yìsi),意味,7
+28288,homework,واجب دراسية (morph:pl واجبات دراسية) / واجب مدرسي (morph:pl واجبات مدرسية),devoirs,deber,Hausaufgabe,作业 (orth:pīnyīn zuòyè),宿題,7
+30264,language,كَلَامٌ,langage / parole,idioma,Sprache,语言 (orth:pīnyīn yǔyán),ことば,7
+30521,language / word,لُغَةٌ / كَلِمَةٌ,langue,palabra,Deutsch / Wort,语 (orth:pīnyīn yǔ) / 词 (orth:pīnyīn cí),～語,7
+30562,Japanese,اليابانية,japonais,japonés,Japanisch,日语 (orth:pīnyīn Rìyǔ),日本語,7
+30580,English,الإنكليزية,anglais,inglés,Englisch,英语 (orth:pīnyīn yīngyǔ),英語,7
+30586,French,اَلْعَرَبِيَّةُ,français,,Französisch,汉语 (orth:pīnyīn hànyǔ),,5
+30628,,,nom,,,,名前,2
+30813,composition,موضوع إنشاء,thème,redacción,Aufsatz,作文 (orth:pīnyīn zuòwén),,6
+31254,,فَاعِلٌ,on,,,,,2
+31526,kanji,,charactère chinois,letras chinas / kanji,chinesisches Zeichen,汉字 (orth:pīnyīn hànzì),漢字,6
+31558,hiragana,,hiragana,hiragana,Hiragana,平假名 (orth:pīnyīn píngjiǎmíng),ひらがな,6
+31559,katakana,,,katakana,Katakana,片假名 (orth:pīnyīn piànjiǎmíng),かたかな,5
+32060,map,خريطة (morph:pl خرائط),carte / plan,mapa,Landkarte,地图 (orth:pīnyīn dìtú),地図,7
+32261,letter,رِسَالَةٌ,lettre,carta,Brief,信 (orth:pīnyīn xìn),手紙,7
+32265,postcard,بطاقة (morph:pl بطاقات),carte postale,postal,Postkarte,明信片 (orth:pīnyīn míngxìnpiàn),はがき,7
+32320,,بَرِيدٌ,,correo,,,,2
+32370,phone,هَاتِفٌ,téléphone,teléfono,Telefon,电话 (orth:pīnyīn diànhuà),電話,7
+32453,,اِتِّصَالٌ,,,,,連絡,2
+32538,,نَبَأٌ,nouvelle,,,,ニュース,3
+32575,talk,قِصَّةٌ,conversation / histoire,historia,Gespräch,话 (orth:pīnyīn huà),話,7
+32755,question,سؤال (morph:pl أسئلة),question,pregunta,Frage,问题 (orth:pīnyīn wèntí),質問,7
+32796,problem,مُشْكِلَةٌ,problème / question,pregunta,Problem,问题 (orth:pīnyīn wèntí),問題,7
+329,,,sauf,,,,ほか,2
+33488,copy,نسخة (morph:pl نسخ),,fotocopia / fotocopiadora / fotocopiar,Kopie,复印 (orth:pīnyīn fùyìn),コピー,6
+33734,writing,جُمْلَةٌ,phrase,frase,Satz,文章 (orth:pīnyīn wénzhāng),,6
+34173,book,كِتَابٌ,livre,libro,Buch,,本,6
+34482,magazine,مَجَلَّةٌ,revue,revista,Zeitschrift,杂志 (orth:pīnyīn zázhì),雑誌,7
+34508,newspaper,جريدة (morph:pl جرائد) / جَرِيدَةٌ,journal,periódico,Zeitung,报纸 (orth:pīnyīn bàozhǐ),新聞,7
+34541,dictionary,قَامُوسٌ / مُعْجَمٌ,dictionnaire,diccionario,Wörterbuch,词典 (orth:pīnyīn cídiǎn),辞書,7
+34629,,,calendrier,,,,カレンダー,2
+3472,convenient,,commode,útil,praktisch,方便 (orth:pīnyīn fāngbiàn),便利,6
+34739,,,composition,,,,作文,2
+34792,song,أُغْنِيَةٌ,chanson,canción,Lied,歌 (orth:pīnyīn gē),歌,7
+35036,picture,رسم (morph:pl رسوم),peinture / tableau,pintura,Bild,画 (orth:pīnyīn huà),絵,7
+35159,picture,صُورَةٌ,photographie / photo,foto,Foto,照片 (orth:pīnyīn zhàopiān),写真,7
+35232,music,مُوسِيقَى,musique,música,Musik,音乐 (orth:pīnyīn yīnyuè),音楽,7
+35701,movie,فيلم (morph:pl أفلام),cinéma / film,cine,Film,电影 (orth:pīnyīn diànyǐng),映画,7
+35862,,تَارِيخٌ,histoire,historia,,,,3
+36429,work,عَمَلٌ,travail,trabajo,Arbeit,工作 (orth:pīnyīn gōngzuò),仕事,7
+36595,summer holiday,عطلة الصيف,grandes vacances,vacaciones de verano,Sommerferien,暑假 (orth:pīnyīn shǔjià),夏休み,7
+36602,rest,عُطْلَةٌ,repos,vacación,Ferien,假 (orth:pīnyīn jià),休み,7
+36910,rice,أَكْلٌ,riz / repas,comida,Reis,饭 (orth:pīnyīn fàn),ごはん,7
+36929,breakfast,فُطُورٌ,petit-déjeuner,desayuno,Frühstück,早饭 (orth:pīnyīn zǎofàn),朝ごはん,7
+36936,lunch,غَدَاءٌ,déjeuner,comida,Mittagessen,午饭 (orth:pīnyīn wǔfàn),昼ごはん,7
+36950,dinner,عَشَاءٌ,dîner,cena,Abendessen,晚饭 (orth:pīnyīn wǎnfàn),夕飯,7
+36954,dinner,,dîner,cena,,晚饭 (orth:pīnyīn wǎnfàn),晩ごはん,5
+38057,travel,سفر (morph:pl أسفار),voyage,viaje,Reise,旅行 (orth:pīnyīn lǚxíng),旅行,7
+38140,walk,تَمَشَّى,promenade / se promener,paseo,Spaziergang,散步 (orth:pīnyīn sànbù),散歩,7
+38202,sport,رياضة (morph:pl رياضات),sport,deporte,Sport,运动 (orth:pīnyīn yùndòng),スポーツ,7
+39927,good,مَاهِرٌ,bien,bien,gut,拿手 (orth:pīnyīn náshǒu),上手,7
+39936,poor,ضعيف (morph:pl ضعفاء),maladroit / mal,mal,schlecht,,下手,6
+40795,party,حَفْلَةٌ,fête / soirée,fiesta,Party,晚会 (orth:pīnyīn wǎnhuì),パーティー,7
+42954,class,دَرْسٌ,classe,clase,Unterricht,上课 (orth:pīnyīn shàngkè),授業,7
+45301,shopping,,courses / achat,compra,Einkauf,买东西 (orth:pīnyīn mǎidōngxi),買い物,6
+47235,washing,,lessive,lavado,Wäsche,,洗濯,5
+47261,,,cuisine,,,,料理,2
+47401,cleaning,تنظيف,ménage,limpieza,Reinigung,打扫 (orth:pīnyīn dǎsǎo),掃除,7
+47878,,,chose,,,,物,2
+48148,baggage,طَرْدٌ,bagage,paquete,Paket,包裹 (orth:pīnyīn bāoguǒ),荷物,7
+48177,money,نَقْدٌ,argent,dinero,Geld,钱 (orth:pīnyīn qián),お金,7
+48231,ticket,تَذْكِرَةٌ,ticket / billet,billete,Fahrkarte,车票 (orth:pīnyīn chēpiào),切符,7
+48275,stamp,طابع (morph:pl طوابع),timbre,sello,Briefmarke,邮票 (orth:pīnyīn yóupiào),切手,7
+48362,paper,وَرَقَةٌ / ورقة ; ورق (morph:pl أوراق،ورقات),papier,papel,Papier,纸 (orth:pīnyīn zhǐ),紙,7
+48676,,,allumette,,,,マッチ,2
+48812,,,voiture,,,,車,2
+48953,,,bouton,,,,ボタン,2
+49158,,,cassette,,,,テープ,2
+49629,clothes,ثوب (morph:pl ثياب),vêtement,ropa,Kleidung,衣服 (orth:pīnyīn yīfu),,6
+49632,dress,ملبس (morph:pl ملابس),vêtement,ropa,,,洋服,5
+49803,jacket,جاكيت (morph:pl جاكيتات),veste,chaqueta,Jacke,外衣 (orth:pīnyīn wàiyī),上着,7
+49814,suit,بذلة (morph:pl بذلات),complet,traje,Anzug,西装 (orth:pīnyīn xīzhuāng),,6
+49843,sweater,كنزة صوفية,pull-over,jersey,Pullover,毛衣 (orth:pīnyīn máoyī),セーター,7
+49847,dress shirt,قميص (morph:pl أقمصة،قمصان),chemise,camisa,Hemd,衬衫 (orth:pīnyīn chènshān),,6
+49881,coat,معطف (morph:pl معاطف),manteau,abrigo,Mantel,大衣 (orth:pīnyīn dàyī),コート,7
+49909,pants,بنطلون (morph:pl بنطلونات),pantalon,pantalón,Hose,裤子 (orth:pīnyīn kùzì),ズボン,7
+49927,skirt,تنورة (morph:pl تنورات،تنانير),jupe,falda,Rock,裙子 (orth:pīnyīn qúnzi),スカート,7
+49945,shirt,قميص (morph:pl أقمصة،قمصان),chemise,camiseta,,汗衫 (orth:pīnyīn hànshān),シャツ,6
+50065,pocket,جيب (morph:pl جيوب) / جَيْبٌ,poche,bolsillo,Tasche,口袋 (orth:pīnyīn kǒudài),ポケット,7
+50073,cap,قبعة (morph:pl قبعات),chapeau,sombrero,Hut,帽子 (orth:pīnyīn màozi),帽子,7
+50149,tie,رباط عنق,cravate,corbata,Krawatte,领带 (orth:pīnyīn lǐngdài),ネクタイ,7
+50205,sock,جورب (morph:pl جوارب),chaussette,calcetín,Strumpf,袜子 (orth:pīnyīn wàzi),靴下,7
+50246,shoe,حذاء (morph:pl أحذية),chaussure,zapato,Schuh,鞋 (orth:pīnyīn xié),靴,7
+50294,slipper,خف (morph:pl خفاف،أخفاف),pantoufle,zapatilla,Pantoffel,拖鞋 (orth:pīnyīn tuōxié),スリッパ,7
+50300,umbrella,شمسية (morph:pl شمسيات),parapluie,paraguas,Regenschirm,雨伞 (orth:pīnyīn yǔsǎn),傘,7
+50330,bed,سرير (morph:pl أسرة،سرر),lit,cama,Bett,床 (orth:pīnyīn chuáng),ベッド,7
+50441,food,,aliment,comida,Essen,吃的 (orth:pīnyīn chīde),食べ物,6
+50577,cooking,طَبَخَ,plat,plato,Speise,菜 (orth:pīnyīn cài),,6
+50596,,وَجْبَةٌ,,,,,定食,2
+50788,bread,خُبْزٌ,pain,pan,Brot,面包 (orth:pīnyīn miànbāo),パン,7
+51101,vegetable,خضراوات,légume,verdura,Gemüse,蔬菜 (orth:pīnyīn shūcài),野菜,7
+51286,meat,لحم (morph:pl لحوم),viande,carne,Fleisch,肉 (orth:pīnyīn ròu),肉,7
+51294,chicken,دجاج,poulet,pollo,Huhn,鸡肉 (orth:pīnyīn jīròu),とり肉,7
+51299,beef,لحم البقرة,bœuf,ternera,Rindfleisch,牛肉 (orth:pīnyīn niúròu),牛肉,7
+51303,pork,لحم الخنزير,porc,carne de cerdo,Schweinefleisch,猪肉 (orth:pīnyīn zhūròu),ぶた肉,7
+51376,sugar,سكر,sucre,azúcar,Zucker,糖 (orth:pīnyīn táng),砂糖,7
+51398,salt,ملح (morph:pl أملاح),sel,sal,Salz,盐 (orth:pīnyīn yán),塩,7
+51442,soy sauce,معجون الصويا　; طحين الصويا,sauce de soja,salsa de soja,Sojasoße,酱油 (orth:pīnyīn jiàngyóu),しょうゆ,7
+51476,butter,زبدة ; زبد / زُبْدٌ,beurre,mantequilla,Butter,黄油 (orth:pīnyīn huángyóu),,6
+51478,cheese,جبن / جُبْنٌ,fromage,queso,Käse,干酪 (orth:pīnyīn gānlào),,6
+51510,curry,,curry,curry,Curry,咖喱饭 (orth:pīnyīn gālífàn),カレー,6
+51546,sweet,حلوى　(حلويات) / حُلْوِيَّةٌ,gâteau,dulce,Kuchen,点心 (orth:pīnyīn diǎnxin),お菓子,7
+51567,,كَعْكٌ,,,,,ケーキ,2
+51586,candy,حلوى　(حلويات),bonbon,caramelo,Bonbon,糖 (orth:pīnyīn táng),,6
+51732,drink,مشروبات,boisson,bebida,Getränk,饮料 (orth:pīnyīn yǐnliào),飲み物,7
+51744,green tea,شَايٌ,thé,té,Tee,茶 (orth:pīnyīn chá),お茶,7
+51748,tea,,thé,té,Tee,红茶 (orth:pīnyīn hóngchá),紅茶,6
+51777,coffee,قَهْوَةٌ,café,café,Kaffee,咖啡 (orth:pīnyīn kāfēi),コーヒー,7
+51821,alcohol / wine,نبيذ / خَمْرٌ,saké / vin,bebida alcohólica / vino,Alkohol / Wein,酒 (orth:pīnyīn jiǔ) / 葡萄酒 (orth:pīnyīn pútaojiǔ),お酒,7
+51920,cigarette,شيشة　; نرجيلة,tabac / cigarette,cigarrillo,Zigarette,烟 (orth:pīnyīn yān),たばこ,7
+51929,medicine,دَوَاءٌ,médicament,medicina,Medikament,药 (orth:pīnyīn yào),薬,7
+52391,house,منزل (morph:pl منازل),maison,casa,Haus,房子 (orth:pīnyīn fángzi),家,7
+52392,home,بَيْتٌ,maison,casa,Wohnung,家 (orth:pīnyīn jiā),うち,7
+52553,building,مبنى (morph:pl مبان) / بِنَايَةٌ / عِمَارَةٌ,bâtiment,edificio,Gebäude,建筑物 (orth:pīnyīn jiànzhùwù),建物,7
+52812,gate,,porte,puerta,Tor,门 (orth:pīnyīn mén),門,6
+52878,room / apartment,شَقَّةٌ / غُرْفَةٌ,chambre / pièce / salle,habitación / piso,Zimmer / Apartment,房间 (orth:pīnyīn fángjiān) / 公寓 (orth:pīnyīn gōngyù),部屋,7
+53018,hall,,entrée,entrada,Eingang,正门 (orth:pīnyīn zhèngmén),玄関,6
+53027,kitchen,مَطْبَخٌ,cuisine,cocina,Küche,厨房 (orth:pīnyīn chúfáng),台所,7
+53048,,,bain / salle de bain,,,,おふろ,2
+53060,toilet,دورة المياه,toilettes,servicio,Toilette,厕所 (orth:pīnyīn cèsuǒ),トイレ,7
+53064,restroom,,toilettes,baño,,洗手间 (orth:pīnyīn xǐshǒujiān),お手洗い,5
+53080,corridor,ممر (morph:pl ممرات),couloir,pasillo,Flur,走廊 (orth:pīnyīn zǒuláng),廊下,7
+53094,stair,درج (morph:pl درجات),escalier,escalera,Treppe,楼梯 (orth:pīnyīn lóutī),階段,7
+53210,window,شباك (morph:pl شبابيك),fenêtre,ventana,Fenster,窗户 (orth:pīnyīn chuānghu),窓,7
+53263,bookshelf,رف (morph:pl رفوف،أرفف),bibliothèque,estante,Regal,书架 (orth:pīnyīn shūjià),本棚,7
+53346,door,,porte,puerta,,门 (orth:pīnyīn mén),戸,5
+53347,door,بَابٌ,porte,puerta,Tür,门 (orth:pīnyīn mén),ドア,7
+53456,desk,,bureau,escritorio,Tisch,桌子 (orth:pīnyīn zhuōzi),机,6
+53468,table,طَاوِلَةٌ,table,mesa,,桌子 (orth:pīnyīn zhuōzi),テーブル,6
+53482,chair,كُرْسِيٌّ,chaise / fauteuil,silla,Stuhl,椅子 (orth:pīnyīn yǐzi),いす,7
+53573,heater,مدفأة (morph:pl مدافئ),chauffage,estufa,Ofen,炉子 (orth:pīnyīn lúzi),ストーブ,7
+53579,bath,حمام (morph:pl حمامات),bain,,Bad,,,4
+53802,,,vase,,,,花瓶,2
+53826,ashtray,مطفأة السجائر,cendrier,cenicero,Aschenbecher,烟灰缸 (orth:pīnyīn yānhuīgāng),灰皿,7
+53883,,صُنْدُوقٌ,boîte,,,,箱,3
+53950,mailbox,صندوق البريد,boîte à lettre,buzón,Briefkasten,邮筒 (orth:pīnyīn yóutǒng),ポスト,7
+53969,envelope,ظَرْفٌ,enveloppe,sobre,Briefumschlag,信封 (orth:pīnyīn xìnfēng),封筒,7
+54008,wallet,محفظة (morph:pl محافظ),portefeuille,cartera,Portemonnaie,钱包 (orth:pīnyīn qiánbāo),財布,7
+54021,bag,حَقِيبَةٌ,sac / serviette / valise,bolso,Tasche,书包 (orth:pīnyīn shūbāo),かばん,7
+54077,dish,صَحْنٌ / طبق (morph:pl أطباق),assiette / plat,plato,Teller,碟子 (orth:pīnyīn diézi),お皿,7
+54092,teacup,,bol,cuenco,,饭碗 (orth:pīnyīn fànwǎn),ちゃわん,5
+54101,glass,كأس (morph:pl كؤوس،كأسات) / كَأْسٌ,verre,copa,Glas,杯子 (orth:pīnyīn bēizi),コップ,7
+54102,cup,فِنْجَانٌ,tasse / coupe,taza,Tasse,杯子 (orth:pīnyīn bēizi),カップ,7
+54175,chopsticks,عودان / عصوان,baguettes,palillo,Stäbchen,筷子 (orth:pīnyīn kuàizi),おはし,7
+54190,fork,شوكة (morph:pl شوك،شوكات،أشواك),fourchette,tenedor,Gabel,叉子 (orth:pīnyīn chāzi),フォーク,7
+54192,spoon,مِلْعَقَةٌ,cuiller,cuchara,Löffel,勺子 (orth:pīnyīn sháozi),スプーン,7
+54236,pencil,,crayon,lápiz,Bleistift,铅笔 (orth:pīnyīn qiānbǐ),鉛筆,6
+54238,fountain pen,,stylo,pluma estilográfica,Füllfederhalter,钢笔 (orth:pīnyīn gāngbǐ),,5
+54239,ballpoint pen,,stylo à bille,bolígrafo,Kugelschreiber,圆珠笔 (orth:pīnyīn yuánzhūbǐ),ボールペン,6
+54250,pen,قَلَمٌ,stylo,bolígrafo,,笔 (orth:pīnyīn bǐ),ペン,6
+54498,key,مِفْتَاحٌ,clé,llave,Schlüssel,钥匙 (orth:pīnyīn yàoshi),かぎ,7
+54580,handkerchief,مِنْدِيلٌ,mouchoir,pañuelo,Taschentuch,手绢 (orth:pīnyīn shǒujuàn),ハンカチ,7
+54609,,,savon,,,,せっけん,2
+54653,shower,مرش (morph:pl مرشات),douche,ducha,Dusche,淋浴 (orth:pīnyīn línyù),シャワー,7
+54781,knife,سكين (morph:pl سكاكين),couteau,cuchillo,Messer,刀子 (orth:pīnyīn dāozi),ナイフ,7
+55090,guitar,جيتار,guitare,guitarra,Gitarre,吉他 (orth:pīnyīn jítā),ギター,7
+55164,record,أسطوانة (morph:pl أسطوانات) / أُسْطُوَانَةٌ,disque,disco de vinilo,Schallplatte,唱片 (orth:pīnyīn chàngpiàn),,6
+55740,notebook,دَفْتَرٌ / كراسة (morph:pl كراسات،كراريس),cahier,cuaderno,Heft,笔记本 (orth:pīnyīn bǐjìběn),ノート,7
+55889,glasses,نظارة (morph:pl نظارات),lunettes,gafa,Brille,眼镜 (orth:pīnyīn yǎnjìng),眼鏡,7
+55928,camera,آلة تصوير,appareil,cámara,Kamera,照相机 (orth:pīnyīn zhàoxiàngjī),カメラ,7
+55946,film,فيلم (morph:pl أفلام),pellicule,carrete,Film,胶卷 (orth:pīnyīn jiāojuǎn),フィルム,7
+55970,fridge,ثلاجة (morph:pl ثلاجات) / بَرَّادَةٌ,frigo,nevera,Kühlschrank,冰箱 (orth:pīnyīn bīngxiāng),冷蔵庫,7
+55992,radio,مذياع (morph:pl مذاييع),radio,radio,Radio,收音机 (orth:pīnyīn shōuyīnjī),ラジオ,7
+55994,TV,تِلِفِزْيُونٌ,télé,televisión,Fernsehen,电视 (orth:pīnyīn diànshì),テレビ,7
+56004,tape recorder,,magnétophone,grabadora,Kassettenrekorder,录音机 (orth:pīnyīn lùyīnjī),,5
+56040,,مُوبَايِل,,,,,携帯電話,2
+56126,computer,حاسوب (morph:pl حواسب،حواسيب) / كُومْبِيُوتَرْ,ordinateur,ordenador,Computer,电脑 (orth:pīnyīn diànnǎo),コンピューター,7
+56144,radio-cassette player,مسجل (morph:pl مسجلات),radiocassette,cadena de música,Radiorekorder,收录机 (orth:pīnyīn shōulùjī),ラジカセ,7
+56398,clock,سَاعَةٌ,montre / horloge,reloj,Uhr,钟表 (orth:pīnyīn zhōngbiǎo),時計,7
+56482,bicycle,دَرَّاجَةٌ / دراجة (morph:pl دراجات),vélo / bicyclette,bicicleta,Fahrrad,自行车 (orth:pīnyīn zìxíngchē),自転車,7
+56506,car,سَيَّارَةٌ,voiture,coche,Auto,汽车 (orth:pīnyīn qìchē),自動車,7
+56572,taxi,سيارة أجرة (morph:pl سيارات أجرة) / تَاكْسِي,taxi,taxi,Taxi,出租车 (orth:pīnyīn chūzūchē),タクシー,7
+56602,bus,حافلة (morph:pl حافلات) / حَافِلَةٌ,autobus,autobús,Bus,公共汽车 (orth:pīnyīn gōnggòngqìchē),バス,7
+56645,train,قِطَارٌ,train,tren,Zug,火车 (orth:pīnyīn huǒchē),電車,7
+56688,subway,قطار الأنفاق (morph:pl قطارات الأنفاق),métro,metro,U-Bahn,地铁 (orth:pīnyīn dìtiě),地下鉄,7
+56712,elevator,مِصْعَدٌ,ascenseur,ascensor,Aufzug,电梯 (orth:pīnyīn diàntī),エレベーター,7
+56868,plane,طَائِرَةٌ / طائرة (morph:pl طائرات),avion,avión,Flugzeug,飞机 (orth:pīnyīn fēijī),飛行機,7
+57040,garden,,jardin,jardín,Garten,院子 (orth:pīnyīn yuànzi),庭,6
+57152,road,طَرِيقٌ,rue / chemin,calle,Straße,路 (orth:pīnyīn lù),道,7
+57316,crossroad,تقاطع,carrefour,cruce,Kreuzung,十字路口 (orth:pīnyīn shízìlùkǒu),交差点,7
+57368,,,pont,,,,橋,2
+57616,,,électricité,,,,電気,2
+57861,color,لَوْنٌ,couleur,color,Farbe,颜色 (orth:pīnyīn yánsè),色,7
+57943,black,أَسْوَدُ,noir,negro,schwarz,黑色 (orth:pīnyīn hēisè),黒,7
+57950,,,blanc,,,,白,2
+57967,red,أَحْمَرُ,rouge,rojo,rot,红色 (orth:pīnyīn hóngsè),赤,7
+58007,brown,,brun / marron,marrón,braun,,茶色,5
+58033,yellow,أَصْفَرُ,jaune,amarillo,gelb,黄色 (orth:pīnyīn huángsè),黄色,7
+58041,green,أَخْضَرُ,vert,verde,grün,绿色 (orth:pīnyīn lǜsè),緑,7
+58059,blue,أَزْرَقُ,bleu,azul,blau,蓝色 (orth:pīnyīn lánsè),青,7
+59203,,مَاءٌ,eau,,,,水,3
+59611,wind,ريح (morph:pl رياح),vent,viento,Wind,风 (orth:pīnyīn fēng),かぜ / 風,7
+59793,rain,مطر (morph:pl أمطار),pluie,lluvia,Regen,雨 (orth:pīnyīn yǔ),雨,7
+59878,snow,ثلج (morph:pl ثلوج),neige,nieve,Schnee,雪 (orth:pīnyīn xuě),雪,7
+59928,weather,طَقْسٌ,temps / faire,tiempo,Wetter,天气 (orth:pīnyīn tiānqì),天気,7
+59957,fine,صحو,beau,buen tiempo,heiter,晴天 (orth:pīnyīn qíngtiān),晴れ,7
+59985,cloudy,غَائِمٌ,nuageux / être couvert,nublado,wolkig,阴天 (orth:pīnyīn yīntiān),曇り,7
+60368,,سَمَاءٌ,ciel,,,,空,3
+60710,,,montagne,,,,山,2
+60947,river,نَهْرٌ,rivière / fleuve,río,Fluss,河 (orth:pīnyīn hé),川,7
+61030,pond,بركة (morph:pl برك),étang,estanque,Teich,池子 (orth:pīnyīn chízi),池,7
+61075,,بَحْرٌ,mer,,,,海,3
+61626,,شَجَرٌ,arbre,,,,木,3
+61891,lemon,ليمون,citron,limón,Zitrone,柠檬 (orth:pīnyīn níngméng),,6
+62749,,زَهْرٌ,fleur,,,,鼻 / 花,3
+62825,fruit,فَاكِهَةٌ,fruit,fruta,Obst,水果 (orth:pīnyīn shuǐguǒ),果物,7
+62896,,,animal,,,,動物,2
+62902,,,animal domestique,,,,ペット,2
+62994,,,chien,,,,犬,2
+63080,,قِطٌّ,chat,,,,猫,3
+63268,,,oiseau,,,,鳥,2
+63577,fish,سَمَكٌ,poisson,pescado,Fisch,鱼 (orth:pīnyīn yú),魚,7
+64143,body,جسم (morph:pl أجسام،جسوم),corps,cuerpo,Körper,身体 (orth:pīnyīn shēntǐ),体,7
+64318,head,رَأْسٌ,tête,cabeza,Kopf,头 (orth:pīnyīn tóu),頭,7
+64388,face,وَجْهٌ,visage / figure,cara,Gesicht,脸 (orth:pīnyīn liǎn),顔,7
+64415,eye,عَيْنٌ,œil,ojo,Auge,眼睛 (orth:pīnyīn yǎnjing),目,7
+64470,nose,أَنْفٌ,nez,nariz,Nase,鼻子 (orth:pīnyīn bízi),,6
+64491,ear,أُذُنٌ,oreille,oreja,Ohr,耳朵 (orth:pīnyīn ěrduo),耳,7
+64505,mouth,فم (morph:pl أفمام),bouche,boca,Mund,嘴 (orth:pīnyīn zuǐ),口,7
+64638,stomach,بطن (morph:pl بطون،أبطن),ventre,vientre / tripa,Bauch,肚子 (orth:pīnyīn dùzi),おなか,7
+64713,hand,يَدٌ,main,mano,Hand,手 (orth:pīnyīn shǒu),手,7
+64741,arm,ذِرَاعٌ,bras,brazo,Arm,胳膊 (orth:pīnyīn gēbo),,6
+64769,leg / foot,ساق (morph:pl سوق،سيقان) / رِجْلٌ,pied / jambe,pierna / pie,Bein / Fuß,腿 (orth:pīnyīn tuǐ),足,7
+65338,tooth,سِنٌّ,dent,diente,Zahn,牙齿 (orth:pīnyīn yáchǐ),歯,7
+65461,milk,حليب,lait,leche,Milch,牛奶 (orth:pīnyīn niúnǎi),牛乳,7
+65581,egg,بيضة ; بيض (morph:pl بيضات),œuf,huevo,Ei,鸡蛋 (orth:pīnyīn jīdàn),卵,7
+66408,illness,مرض (morph:pl أمراض) / مَرَضٌ,maladie,enfermedad / enfermo,Krankheit,病 (orth:pīnyīn bìng),病気,7
+66730,cold,برد　(يبرد ; برد،برود),rhume,resfriado,Erkältung,感冒 (orth:pīnyīn gǎnmào),,6
+67104,become,صَارَ,devenir,hacerse,werden,,なります,6
+67286,,,différent,,,,違います,2
+67417,,,être,,,,あります(1),2
+67418,,,avoir,,,,あります(2),2
+67457,,,être,,,,います,2
+67613,send,أَرْسَلَ,sortir,enviar,,寄 (orth:pīnyīn jì),出します,6
+67730,,,naître,,,,生まれます,2
+67762,get up,استيقظ (يستيقظ ; استيقاظ),,levantarse,aufstehen,起床 (orth:pīnyīn qǐchuáng),,5
+67903,,,faire / fabriquer,,,,作ります,2
+68054,,,perdre,,,,なくします,2
+68091,,اِخْتَفَى,disparaître,,,,,2
+68092,erase,أطفأ (يطفئ ; إطفاء),éteindre / effacer,borrar,löschen,擦掉 (orth:pīnyīn cādiào),消します,7
+68583,fasten,,serrer,,zumachen,系 (orth:pīnyīn jì),,4
+68797,push,دَفَعَ,pousser,empujar,drücken,推 (orth:pīnyīn tuī),押します,7
+69163,,أَخَذَ,,ponerse,,,,2
+69249,,اِنْقَضَى,finir,,,,終わります,3
+69438,,تَوَقَّفَ / وَقَفَ,s'arrêter,,,,止まります,3
+69490,,اِسْتَمَرَّ / دَامَ / وَلِيَ,,,,,続きます,2
+69492,,تَابَعَ / وَاصَلَ,,llevar,,,,2
+69825,,,mettre,,,,置きます,2
+69867,hang,علق (يعلق ; تعليق),mettre,ponerse,hängen,挂 (orth:pīnyīn guà),かけます,7
+70089,,,traverser,pasar,,,渡ります,3
+70119,go out,خَرَجَ,sortir / partir,salir,ausgehen,出去 (orth:pīnyīn chūqù),出かけます,7
+70122,,,sortir,,,,出ます,2
+70181,arrive,وَصَلَ,arriver,llegar,ankommen,到 (orth:pīnyīn dào),着きます,7
+70238,walk,مَشَى,marcher,caminar,laufen,走 (orth:pīnyīn zǒu),歩きます,7
+70265,run,ركض (يركض ; ركض),courir,correr,rennen,跑 (orth:pīnyīn pǎo),走ります,7
+70316,jump,طَارَ,voler,volar,fliegen,跳 (orth:pīnyīn tiào),飛びます,7
+70931,go home,رَجَعَ,rentrer,volver,zurückkehren,回 (orth:pīnyīn huí),帰ります,7
+71061,,جَاءَ,venir,,,,来ます,3
+71127,go,ذَهَبَ,aller,ir,gehen,去 (orth:pīnyīn qù),行きます,7
+71454,,,entrer,,,,入ります,2
+71458,put,أَدْخَلَ,mettre / placer / introduire,servir,,放 (orth:pīnyīn fàng),入れます(2),6
+71714,,,ouvrir,,,,さします,2
+71811,put on,,mettre,ponerse,aufsetzen,戴 (orth:pīnyīn dài),かぶります,6
+71867,,,lever / relever,,,,上げます,2
+71928,,تَسَلَّقَ,monter,,,,登ります,3
+71949,get off,,descendre,bajar,aussteigen,下 (orth:pīnyīn xià),降ります,6
+72062,rain,هطل المطر,pleuvoir / neiger,llover,regnen,下雨 (orth:pīnyīn xiàyǔ),,6
+72074,get on,ركب (يركب ; ركوب),monter,subir,einsteigen,坐 (orth:pīnyīn zuò),乗ります,7
+72632,,اِنْفَتَحَ,s'ouvrir,,,,開きます,3
+72635,open,فَتَحَ,ouvrir / tirer,abrir,öffnen,打开 (orth:pīnyīn dǎkāi),開けます,7
+72671,,,se fermer,,,,閉まります,2
+72672,close,أَغْلَقَ / أَقْفَلَ,fermer,cerrar,schließen,关 (orth:pīnyīn guān),閉めます,7
+72782,attach,لصق (يلصق ; لصق),allumer,pegar,befestigen,安 (orth:pīnyīn ān),,6
+72816,stick,ألصق (يلصق ; إلصاق),coller,pegar,kleben,贴 (orth:pīnyīn tiē),はります,7
+73436,turn,انعطف (ينعطف ; انعطاف),tourner,girar,biegen,,曲がります,6
+73645,cut,قَصَّ,couper,cortar,schneiden,剪 (orth:pīnyīn jiǎn),切ります(1) / 切ります(2),7
+73881,,,disposer,,,,並べます,2
+73997,add,إِضَافَةٌ,ajouter,añadir,,加 (orth:pīnyīn jiā),,5
+7449,time,عِنْدَمَا / زَمَنٌ,quand,tiempo,Zeit,的时候 (orth:pīnyīn deshíhou),,6
+74595,,,prendre,,,,かかります,2
+74751,begin,بَدَأَ,commencer,empezar,beginnen,开始 (orth:pīnyīn kāishǐ),始まります,7
+7508,,,loisir,,,,暇,2
+75138,,,connaître / savoir,saber,,,知ります,3
+75380,,,fatigant,,,,疲れます,2
+75733,,قَلِقَ,,,,,心配します,2
+75855,,,avoir des difficultés / être embarrassé,,,,困ります,2
+7603,when,متى,quand,cuándo,wann,什么时候 (orth:pīnyīn shénmeshíhou),いつ,7
+76383,,بَكَى,,,,,泣きます,2
+76527,sing,غَنَّى,chanter,cantar,singen,唱歌 (orth:pīnyīn chànggē),歌います,7
+76984,,,attendre,,,,待ちます,2
+7709,,حِينٌ,,,,,～とき,2
+77113,,,apprendre,,,,習います,2
+77118,practice,تمرن (يتمرن ; تمرن),faire des exercices,hacer ejercicio,üben,练习 (orth:pīnyīn liànxí),練習します,7
+77172,,,étudier,,,,勉強します,2
+7729,,,vers,,,,～ころ／ごろ,2
+77301,,,mémoriser,,,,覚えます,2
+77319,,نَسِيَ,oublier,,,,忘れます,3
+77624,,,voir / regarder,ver,,,,2
+77658,,,savoir,,,,分かります,2
+77901,,عَدَّ,,contar,,,,2
+78069,,بَحَثَ,,,,,探します,2
+7851,,,tous les jours / chaque jour,,,,毎日,2
+78561,,عَنَى,vouloir dire,,,,,2
+7860,,,tous les matins / chaque matin,,,,毎朝,2
+7861,,,tous les soirs / chaque soir,,,,毎晩,2
+7864,every week,كل أسبوع,toutes les semaines / chaque semaine,todas las semanas,jede Woche,每个星期 (orth:pīnyīn měigexīngqī),毎週,7
+7865,every month,كل شهر,tous les mois / chaque mois,todos los meses,jeden Monat,每个月 (orth:pīnyīn měigeyuè),毎月,7
+7870,every year,كل سنة,tous les ans / chaque année,todos los años,jedes Jahr,每年 (orth:pīnyīn měinián),毎年,7
+78839,,رَأَى,,,,,見ます,2
+79105,,أَرَى,montrer,,,,,2
+79279,say,قَالَ,dire / parler / entendre,decir,sagen,说 (orth:pīnyīn shuō),言います,7
+79593,My name is,اِسْمٌ,s'appeler,llamarse,heißen,姓 (orth:pīnyīn xìng),,6
+80000,speak,تَكَلَّمَ / تَحَدَّثَ / كَلَّمَ,parler,hablar,sprechen,说话 (orth:pīnyīn shuōhuà),話します,7
+80001,talk,حَكَى / ذَكَرَ,raconter,contar,erzählen,聊天 (orth:pīnyīn liáotiān),,6
+80087,ask,سَمِعَ,écouter / entendre,preguntar,hören,听 (orth:pīnyīn tīng),,6
+80142,answer,أَجَابَ / اِسْتَجَابَ,répondre,contestar,antworten,回答 (orth:pīnyīn huídá),答えます,7
+80639,read,قَرَأَ,lire,leer,lesen,看 (orth:pīnyīn kàn),読みます,7
+80727,write,كَتَبَ,écrire,escribir,schreiben,写 (orth:pīnyīn xiě),書きます,7
+80748,copy,طبع (يطبع ; طبع،طباع),,fotocopiar,kopieren,复印 (orth:pīnyīn fùyìn),コピーします,6
+81068,play,عزف (يعزف ; عزف),jouer,tocar,spielen,弹 (orth:pīnyīn tán),弾きます,7
+8123,,,vingt ans,,,,二十歳,2
+81423,,,travailler,,,工作 (orth:pīnyīn gōngzuò),勤めます,3
+81627,,,se lever,,,,起きます,2
+81700,eat,أَكَلَ,manger,comer,essen,吃 (orth:pīnyīn chī),食べます,7
+81835,put on / wear,ارتدى (يرتدي ; ارتداء),mettre / porter,ponerse / llevar,anziehen / tragen,穿 (orth:pīnyīn chuān),着ます,7
+81858,put on,لَبِسَ,mettre,ponerse,,穿 (orth:pīnyīn chuān),はきます,6
+81872,take off,خلع (يخلع ; خلع) / خَلَعَ,enlever,quitarse,ausziehen,脱 (orth:pīnyīn tuō),脱ぎます,7
+81948,live,سكن (يسكن ; سكن),habiter,vivir,wohnen,住 (orth:pīnyīn zhù),住みます,7
+82121,take a bath,اِسْتَحَمَّ,prendre,ducharse,duschen,洗澡 (orth:pīnyīn xǐzǎo),浴びます,7
+82161,,تَزَوَّجَ,se marier / épouser,,,,結婚します,3
+82317,play,لَعِبَ,jouer,jugar,spielen,玩儿 (orth:pīnyīn wánr),遊びます,7
+82358,travel,سَافَرَ,voyager,viajar,reisen,旅行 (orth:pīnyīn lǚxíng),旅行します,7
+82483,swim,سَبَحَ,nager,nadar,schwimmen,游泳 (orth:pīnyīn yóuyǒng),泳ぎます,7
+82608,stand,قَامَ,se lever / être debout,levantarse,aufstehen,站 (orth:pīnyīn zhàn),立ちます,7
+82694,go to bed,نَامَ,se coucher,acostarse,schlafen,睡觉 (orth:pīnyīn shuìjiào),寝ます,7
+82724,sit,جَلَسَ,s'asseoir,sentarse,sich setzen,坐 (orth:pīnyīn zuò),座ります,7
+82801,,,avoir,tener,,,持ちます,3
+83154,drink,شَرِبَ,boire,beber,trinken,喝 (orth:pīnyīn hē),飲みます,7
+83245,,,souffler,,,,服,2
+83250,smoke,دخن (يدخن ; تدخين),aspirer / respirer,respirar,rauchen,抽 (orth:pīnyīn chōu),吸います,7
+83398,,,savoir,poder,,,できます,3
+83481,,,faire,,,,します,2
+83509,do,فَعَلَ,faire,hacer,tun,干 (orth:pīnyīn gàn),やります,7
+8361,spring,ربيع,printemps,primavera,Frühling,春天 (orth:pīnyīn chūntiān),春,7
+83625,work,,travailler,trabajar,arbeiten,,働きます,5
+8375,summer,صَيْفٌ,été,verano,Sommer,夏天 (orth:pīnyīn xiàtiān),夏,7
+8389,fall,خريف,automne,otoño,Herbst,秋天 (orth:pīnyīn qiūtiān),秋,7
+8403,winter,شتاء,hiver,invierno,Winter,冬天 (orth:pīnyīn dōngtiān),冬,7
+84044,meet,قَابَلَ,voir / rencontrer,ver,treffen,见面 (orth:pīnyīn jiàn),会います,7
+8441,,,année,,,,年,2
+8510,May,مايو,mai,mayo,Mai,五月 (orth:pīnyīn wǔyuè),,6
+8543,,,semaine,,,,～週間,2
+8555,Monday,يوم الاثنين,lundi,lunes,Montag,星期一 (orth:pīnyīn xīngqīyī),月曜日,7
+8556,Tuesday,يوم الثلاثاء,mardi,martes,Dienstag,星期二 (orth:pīnyīn xīngqīèr),火曜日,7
+8557,Wednesday,يوم الأربعاء,mercredi,miércoles,Mittwoch,星期三 (orth:pīnyīn xīngqīsān),水曜日,7
+8558,Thursday,يوم الخميس,jeudi,jueves,Donnerstag,星期四 (orth:pīnyīn xīngqīsì),木曜日,7
+8559,Friday,يوم الجمعة,vendredi,viernes,Freitag,星期五 (orth:pīnyīn xīngqīwǔ),金曜日,7
+8560,Saturday,يوم السبت,samedi,sábado,Samstag,星期六 (orth:pīnyīn xīngqīliù),土曜日,7
+85608,teach,عَلَّمَ / دَرَّسَ,enseigner,enseñar,lehren,教 (orth:pīnyīn jiāo),教えます,7
+8561,Sunday,يوم الأحد,dimanche,domingo,Sonntag,星期日 (orth:pīnyīn xīngqīrì) / 星期天 (orth:pīnyīn xīngqītiān),日曜日,7
+8585,,,un jour / une journée,,,,一日,2
+8590,,,le premier,,,,一日,2
+85908,,,demander,,,,頼みます,2
+8591,,,vingt jours,,,,二十日,2
+85910,please,من فضلك,s'il vous plaît,por favor,,请 (orth:pīnyīn qǐng),,5
+8682,,,anniversaire,,,,誕生日,2
+87018,,,avoir besoin / être nécessaire / demander,,,,要ります,2
+87238,sell,بَاعَ,vendre,vender,verkaufen,卖 (orth:pīnyīn mài),売ります,7
+87307,go shopping / buy,اِشْتَرَى / تسوق (يتسوق ; تسوق) / شرى (يشري ; شراء),acheter / faire des courses,hacer compra / comprar,einkaufen / kaufen,买东西 (orth:pīnyīn mǎidōngxi) / 买 (orth:pīnyīn mǎi),買います,7
+87493,hand,أَعْطَى,passer,pasar,geben,交 (orth:pīnyīn jiāo),渡します,7
+87572,lend,أَعَارَ,louer,dejar,leihen,借给 (orth:pīnyīn jiègěi),貸します,7
+87585,borrow,اِسْتَعَارَ / اِسْتَعَانَ,louer / emprunter,,leihen,借 (orth:pīnyīn jiè),借ります,6
+87624,return,رد (يرد ; رد),rendre,devolver,zurückgeben,还 (orth:pīnyīn huán),返します,7
+8822,morning,قبل الظهر,matin / matinée,mañana,Vormittag,上午 (orth:pīnyīn shàngwǔ),午前,7
+8824,afternoon,بعد الظهر / عَصْرٌ,après-midi,tarde,Nachmittag,下午 (orth:pīnyīn xiàwǔ),午後,7
+88468,wash,غَسَلَ,laver,lavar,,洗 (orth:pīnyīn xǐ),洗います,6
+88469,wash,,faire la lessive,lavar,waschen,洗衣服 (orth:pīnyīn xǐyīfu),洗濯します,6
+8856,morning,صَبَاحٌ,matin,mañana,Morgen,早上 (orth:pīnyīn zǎoshang),朝,7
+88631,clean,نَظَّفَ,faire le ménage / nettoyer,limpiar,putzen,打扫 (orth:pīnyīn dǎsǎo),掃除します,7
+8873,noon,نهار (morph:pl أنهر),midi,mediodía,Mittag,白天 (orth:pīnyīn báitiān),昼,7
+88794,,,polir,,,,磨きます,2
+8891,evening,مساء (morph:pl أمساء),soir / soirée,atardecer,Abend,傍晚 (orth:pīnyīn bàngwǎn),夕方,7
+88910,,,prendre,,,,撮ります,2
+88962,,,utiliser,,,,使います,2
+8901,,مَسَاءٌ,soir,,,,～番 / 晩,3
+8908,night,لَيْلٌ,nuit,noche,Nacht,晚上 (orth:pīnyīn wǎnshang),夜,7
+89503,get cloudy,,se couvrir,nublarse,sich bewölken,,曇ります,5
+89542,clear,,il fait beau,hacer buen tiempo,sich aufklären,晴 (orth:pīnyīn qíng),晴れます,6
+89739,,اِنْطَفَأَ,,,,,消えます,2
+8987,,اَلْآنَ,maintenant,,,,今,3
+90067,,,s'épanouir,,,,咲きます,2
+90096,die,مَاتَ,mourir,morir,sterben,死 (orth:pīnyīn sǐ),死にます,7
+9013,this year,هذه السنة,cette année,este año,dieses Jahr,今年 (orth:pīnyīn jīnnián),今年,7
+9022,this month,هذا الشهر,ce mois,este mes,diesen Monat,这个月 (orth:pīnyīn zhèigeyuè),今月,7
+9025,this week,هذا الأسبوع,cette semaine,esta semana,diese Woche,这个星期 (orth:pīnyīn zhèigexīngqī),今週,7
+9026,today,اَلْيَوْمَ,aujourd'hui,hoy,heute,今天 (orth:pīnyīn jīntiān),きょう,7
+9029,,,ce matin,,,,けさ,2
+9031,,,ce soir,,,,今晩,2
+90777,this,هذا / هذه,ce / ce ...-ci,este,dieser,这个 (orth:pīnyīn zhèige),この,7
+90778,such,هٰكَذَا,tel,tal,solch,这么 (orth:pīnyīn zhème),こんな,7
+90793,,,ce / ce ...-là,,,,その,2
+90799,so,كذلك,oui,así,so,这样 (orth:pīnyīn zhèiyang),そう,7
+90814,that,ذٰلِكَ / ذلك,ce / ce ...-là,ese; esa; esos; esas,der,那个 (orth:pīnyīn nèige),あの(1),7
+90820,which,أَيٌّ,lequel,cuál,welch,哪个 (orth:pīnyīn něige),どの,7
+90821,what,,quel,cómo,,什么 (orth:pīnyīn shénme),どんな,5
+90822,,,comment,,,,どう,2
+90827,how,كَيْفَ,comment,,wie,怎么 (orth:pīnyīn zěnme),いかが,6
+9103,last year,السنة الماضية,l'année dernière,el año pasado,letztes Jahr,去年 (orth:pīnyīn qùnián),去年,7
+9108,the year before last,السنة قبل الماضية,il y a deux ans,hace dos años,vorletztes Jahr,前年 (orth:pīnyīn qiánnián),おととし,7
+9112,last month,الشهر الماضي,le mois dernier,el mes pasado,letzten Monat,上个月 (orth:pīnyīn shànggeyuè),先月,7
+91125,,,même,,,,同じ,2
+9116,last week,الأسبوع الماضي,la semaine dernière,la semana pasada,letzte Woche,,先週,6
+91162,just,تَمَامًا,juste,justo,eben,正好 (orth:pīnyīn zhènghǎo),,6
+9118,yesterday,أَمْسِ,hier,ayer,gestern,昨天 (orth:pīnyīn zuótiān),きのう,7
+9122,the day before yesterday,أَوَّلَ أَمْسِ,avant-hier,anteayer,vorgestern,前天 (orth:pīnyīn qiántiān),おととい,7
+91248,no,لَيْسَ / لا / لَنْ / لَمْ,il n'y a pas,no hay,kein,没有 (orth:pīnyīn méiyǒu),,6
+9127,evening,ليلة أمس,hier soir,anoche,gestern Abend,傍晚 (orth:pīnyīn bàngwǎn) / 昨夜 (orth:pīnyīn zuóyè),ゆうべ,7
+91443,,,magnifique,,,,りっぱ,2
+91632,,جَيِّدٌ / حَسَنٌ,,,,好 (orth:pīnyīn hǎo),,2
+91633,good,طَيِّبٌ,bon,bien,gut,,いい,6
+91642,,,bien,,,,よく(2),2
+91682,bad,سيء (morph:pl سيئون),mauvais / travailler / ami / exercice / prendre / descendre / bon / arriver / passer / sac / ils,mal / malo,,坏 (orth:pīnyīn huài),悪い,6
+9196,next year,السنة القادمة,l'année prochaine,el año que viene,nächstes Jahr,明年 (orth:pīnyīn míngnián),来年,7
+91975,thin,رقيق,mince,fino,dünn,薄 (orth:pīnyīn báo),,6
+9201,the year after next,السنة بعد القادمة,dans deux ans,dentro de dos años,übernächstes Jahr,后年 (orth:pīnyīn hòunián),さ来年,7
+92011,,,divers / varié,,,,いろいろ(2) / いろいろ(1),2
+92053,clean,جَمِيلٌ,beau / joli,bonito,schön,漂亮 (orth:pīnyīn piàoliang),きれい,7
+9206,next month,الشهر القادم,le mois prochain,el mes que viene,nächsten Monat,下个月 (orth:pīnyīn xiàgeyuè),来月,7
+9208,next week,الأسبوع القادم,la semaine prochaine,la semana que viene,nächste Woche,下个星期 (orth:pīnyīn xiàgexīngqī),来週,7
+9211,tomorrow,غَدًا,demain,mañana,morgen,明天 (orth:pīnyīn míngtiān),あした,7
+92133,dirty,قذر,sale,sucio,schmutzig,脏 (orth:pīnyīn zāng),汚い,7
+92156,difficult,صَعْبٌ,difficile,difícil,schwierig,难 (orth:pīnyīn nán),難しい,7
+9219,the day after tomorrow,بعد غد,après-demain,pasado mañana,übermorgen,后天 (orth:pīnyīn hòutiān),あさって,7
+92207,easy,سهل,facile,fácil,leicht,容易 (orth:pīnyīn róngyì),易しい,7
+92283,,,ça va,,,,大丈夫,2
+92298,,,dangereux,,,,危ない,2
+92331,strong,قَوِيٌّ,fort,fuerte,stark,强 (orth:pīnyīn qiáng),強い,7
+92363,weak,ضعيف (morph:pl ضعفاء),faible,débil,schwach,软弱 (orth:pīnyīn ruǎnruò),弱い,7
+92959,,دَائِمًا,toujours / tout le temps,,,,いつも,3
+9301,,,prochain / suivant,,,,次,2
+93175,often,كثيرا ما,souvent,frecuente,oft,常常 (orth:pīnyīn chángcháng),よく(1),7
+93190,sometimes,أَحْيَانًا,de temps en temps / quelquefois,a veces,manchmal,有时 (orth:pīnyīn yǒushí),時々,7
+93352,,,de plus en plus,,,,だんだん,2
+93391,new,جديد (morph:pl جدد) / جَدِيدٌ,nouveau / neuf,nuevo,neu,新 (orth:pīnyīn xīn),新しい,7
+93413,old,قَدِيمٌ,vieux / ancien,viejo,alt,旧 (orth:pīnyīn jiù),古い,7
+93460,young,,jeune,joven,jung,年轻 (orth:pīnyīn niánqīng),若い,6
+93485,,,de bonne heure,,,,早い,2
+93490,late,بطيء,lent,lento / tarde,spät,慢 (orth:pīnyīn màn),遅い,7
+93503,yet,زَالَ,encore,todavía,noch,还 (orth:pīnyīn hái),まだ,7
+93515,already,قَدْ,déjà,ya,schon,已经 (orth:pīnyīn yǐjing),もう(1),7
+93558,,,première fois,,,,初めて,2
+93581,soon,فَوْرًا,tout de suite,enseguida,gleich,马上 (orth:pīnyīn mǎshang),すぐ／すぐに,7
+93640,while,,en＋現在分詞( -ant),,während,一边 (orth:pīnyīn yìbiān),～ながら,5
+9372,,,début,,,,初め／初めに,2
+93723,straight,مستقيم,droite,,geradeaus,一直 (orth:pīnyīn yìzhí),まっすぐ,6
+93774,,,rond,,,,丸い,2
+93826,many,كَثِيرٌ,nombreux / un grand nombre de,mucho,viel,多 (orth:pīnyīn duō),多い,7
+93838,,كَثِيرًا,beaucoup,,,,たくさん,3
+93928,few,قَلِيلٌ,peu nombreux,poco / un poco,wenig,少 (orth:pīnyīn shǎo),少ない,7
+93932,,,peu,,,,少し,2
+93979,,,un peu,,,,ちょっと,2
+94000,long,طَوِيلٌ,long,largo,lang,长 (orth:pīnyīn cháng),長い,7
+94005,short,قَصِيرٌ,court,corto,kurz,短 (orth:pīnyīn duǎn),短い,7
+94023,expensive,عَالٍ,haut,caro,hoch,高 (orth:pīnyīn gāo),高い,7
+94030,low,منخفض,bas,bajo,niedrig,低 (orth:pīnyīn dī),低い,7
+94048,thick,سميك,épais,grueso,dick,厚 (orth:pīnyīn hòu),厚い,7
+94059,far,بَعِيدٌ,loin,lejos,fern,远 (orth:pīnyīn yuǎn),遠い,7
+94068,near,قريب (morph:pl أقارب،أقرباء),proche,cerca,nah,近 (orth:pīnyīn jìn),近い,7
+94080,large,وَاسِعٌ,large,amplio,weit,宽 (orth:pīnyīn kuān),広い,7
+94110,narrow,ضَيِّقٌ,étroit,estrecho,eng,窄 (orth:pīnyīn zhǎi),狭い,7
+94124,thick,غليظ (morph:pl غلاظ) / سمين (morph:pl سمان),gros,gordo,dick,粗 (orth:pīnyīn cū),太い,7
+94125,thin,رَفِيعٌ,fin / mince,fino,dünn,细 (orth:pīnyīn xì),細い,7
+94142,big,كَبِيرٌ,grand,grande,groß,大 (orth:pīnyīn dà),大きい,7
+94143,,,grand,,,,大きな,2
+94186,small,صَغِيرٌ,petit,pequeño,klein,小 (orth:pīnyīn xiǎo),小さい,7
+94187,,,petit,,,,小さな,2
+94225,fast,سريع / سَرِيعٌ,vite / rapide,rápido,schnell,快 (orth:pīnyīn kuài),速い,7
+94288,slowly,بُطْءٌ,lentement,despacio,langsam,慢慢儿 (orth:pīnyīn mànmānr),ゆっくり,7
+94318,heavy,ثَقِيلٌ,lourd,pesado,schwer,重 (orth:pīnyīn zhòng),重い,7
+94320,light,خَفِيفٌ,léger,ligero,leicht,轻 (orth:pīnyīn qīng),軽い,7
+94344,hot,,chaud,calor,heiß,热 (orth:pīnyīn rè),暑い,6
+94363,cool,رطب,frais,fresco,kühl,凉快 (orth:pīnyīn liángkuai),涼しい,7
+94373,cold,بَارِدٌ,froid,hacer frío,kalt,冷 (orth:pīnyīn lěng),寒い,7
+94383,,,environ / à peu près,,,,～くらい／ぐらい,2
+94420,,,trop,,,,あまり,2
+94499,,,encore,,,,もっと,2
+94500,,,encore,,,,もう(2),2
+94562,,,assez,,,,けっこう,2
+94586,,,très,,,,大変(1) / 大変(2),2
+94634,,,très,,,,とても,2
+94851,whole,,pendant / tout,todo el ...,ganz,整 (orth:pīnyīn zhěng),～中,6
+94949,,,chaque,,,,～ずつ,2
+94953,,,seul,,,,～だけ,2
+95091,hurt,أَلَمٌ,avoir mal,doler,weh tun,疼 (orth:pīnyīn téng),痛い,7
+95240,happy,ممتع,joyeux,divertido,lustig,愉快 (orth:pīnyīn yúkuài),楽しい,7
+95258,interesting,شائق,intéressant / amusant / drôle,interesante,interessant,有意思 (orth:pīnyīn yǒuyìsi),おもしろい,7
+95270,boring,مُمِلٌّ,ennuyeux,aburrido,langweilig,无聊 (orth:pīnyīn wúliáo),つまらない,7
+95586,like,أعجب (يعجب ; إعجاب) / أَحَبَّ,aimer / préférer / plaire,gustar,mögen / gefallen,喜欢 (orth:pīnyīn xǐhuan),好き,7
+95587,love,عشق (يعشق ; عشق),adorer,encantar,Lieblings...,,大好き,6
+95610,hate,كره (يكره ; كراهة،كراهية),détester,no gustar,hassen,讨厌 (orth:pīnyīn tǎoyàn),嫌い,7
+95614,,,désagréable,,,,嫌,2
+95676,,,mignon / joli,,,,かわいい,2
+9570,,طوال / طولَ,pendant,,,,～中,3
+96159,want,أَرَادَ,vouloir,querer,mögen,要 (orth:pīnyīn yào),欲しい,7
+96508,,,important,,,,大切,2
+9698,,,avant,,,,～前,2
+97137,famous,مَشْهُورٌ,célèbre / connu,famoso,berühmt,有名 (orth:pīnyīn yǒumíng),有名,7
+97485,busy,مَشْغُولٌ,occupé,ocupado,beschäftigt,忙 (orth:pīnyīn máng),忙しい,7
+98390,fine,نَشِيطٌ,aller bien,bien,munter,精神 (orth:pīnyīn jīngshen),元気,7
+98899,,غَالٍ,cher,,,,高い,3
+98904,cheap,رَخِيصٌ,bon marché,barato,billig,便宜 (orth:pīnyīn piányi),安い,7
+98991,bright / light,مضيء / فاتح,clair,claro,hell,明亮 (orth:pīnyīn míngliàng) / 光亮 (orth:pīnyīn guāngliàng),明るい,7
+99001,dark,مظلم,sombre / obscur,oscuro,dunkel,黑 (orth:pīnyīn hēi),暗い,7
+99105,white,أَبْيَضُ,blanc,blanco,weiß,白色 (orth:pīnyīn báisè),白い,7
+99120,,,noir,,,,黒い,2
+99131,,,rouge,,,,赤い,2
+99136,,,jaune,,,,黄色い,2
+99141,,,bleu,,,,青い,2
+99157,quiet,هَادِئٌ,calme / tranquille,tranquilo,ruhig,安静 (orth:pīnyīn ānjìng),静か,7
+99215,,,bruyant,,,,うるさい,2
+99217,busy,مُزْدَحِمٌ,animé,alegre,,热闹 (orth:pīnyīn rènao),にぎやか,6
+99489,delicious,لَذِيذٌ,bon / délicieux / excellent,estar rico / bueno,lecker,好吃 (orth:pīnyīn hǎochī),おいしい,7
+99491,terrible,,mauvais,no estar rico,,难吃 (orth:pīnyīn nánchī),まずい,5
+99501,sweet,حلو,doux,dulce,süß,甜 (orth:pīnyīn tián),甘い,7
+99511,hot,حَارٌّ,piquant / épicé,picante,scharf,辣 (orth:pīnyīn là),辛い,7
+99575,dark,داكن,foncé,oscuro,dunkel,深 (orth:pīnyīn shēn),,6
+9974,,هُنَا,ici,,,,ここ,3
+9980,,,là,,,,そこ,2
+99845,,,chaud,,,,熱い,2
+99848,cold,,froid,frío,kalt,冰 (orth:pīnyīn bīng),冷たい,6
+99853,warm,دافئ,tiède,hacer calor,warm,暖和 (orth:pīnyīn nuǎnhuo),暖かい,7
+9986,there,,là,ahí,da,那儿 (orth:pīnyīn nàr),そちら,6
+9987,,,là,,,,そっち,2
+9991,,هُنَاكَ,là-bas,,,,あそこ,3
+9996,,,là-bas,,,,あちら,2
+9997,there,,là-bas,allí,dort,那儿 (orth:pīnyīn nàr),あっち,6
+9998,,أَيْنَ,où,,,,どこ,3
