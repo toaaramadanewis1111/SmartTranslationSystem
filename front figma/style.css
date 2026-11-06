@@ -11,8 +11,9 @@ h2{font-size:1.15rem;font-weight:700}
 .lbl{font-size:.72rem;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--mute)}
 
 /* logo */
-.lg{display:inline-grid;place-items:center;width:34px;height:34px;border-radius:10px;background:var(--blue);font-weight:800;font-size:.95rem}
-.lg.big{width:84px;height:84px;border-radius:24px;font-size:1.9rem}
+.lg{display:inline-grid;place-items:center;width:34px;height:34px;border-radius:10px;background:var(--blue);overflow:hidden;flex:none}
+.lg.big{width:84px;height:84px;border-radius:24px}
+.logo-symbol{display:block;width:100%;height:100%}
 .brand{display:flex;align-items:center;gap:10px;font-weight:800;font-size:1.2rem}
 .brand b{color:var(--red)}
 .login-brand{justify-content:center;font-size:1.5rem;margin-bottom:4px}
