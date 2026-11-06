@@ -79,6 +79,19 @@ const ic = (n, s = 20) =>
     stroke-linecap="round" stroke-linejoin="round"
     aria-hidden="true"><path d="${P[n]}"/></svg>`;
 
+const logoMark = className => `
+  <svg class="${className}" viewBox="0 0 64 64" aria-hidden="true">
+    <rect x="2" y="2" width="60" height="60" rx="17" fill="#3b2cff"/>
+    <path d="M10 15a7 7 0 017-7h30a7 7 0 017 7v23a7 7 0 01-7 7H37l-10 9v-9h-10a7 7 0 01-7-7z"
+      fill="#fff"/>
+    <text x="15" y="34" fill="#3b2cff" font-size="20"
+      font-weight="800" font-family="system-ui,sans-serif">文</text>
+    <text x="38" y="34" fill="#e3122c" font-size="20"
+      font-weight="800" font-family="system-ui,sans-serif">A</text>
+    <path d="M45 42h7a5 5 0 015 5v5h-5l-5 5v-5h-2a5 5 0 01-5-5"
+      fill="#e3122c"/>
+  </svg>`;
+
 
 /* ---------- content ---------- */
 
@@ -408,7 +421,7 @@ function shell(r, html) {
     <div class="shell">
       <aside class="side">
         <div class="brand">
-          <span class="lg">文A</span>Lango<b>Link</b>
+          <span class="lg">${logoMark('logo-symbol')}</span>Lango<b>Link</b>
         </div>
         ${NAV.map(nv).join('')}
         <a class="btn" href="#/home">
@@ -456,7 +469,7 @@ R.splash = () => ({
   auth:1,
   html:`
     <div class="splash">
-      <span class="lg big">文A</span>
+      <span class="lg big">${logoMark('logo-symbol')}</span>
       <div class="typed" id="ty" aria-label="LangoLink">L</div>
     </div>
   `,
@@ -480,20 +493,7 @@ R.welcome = () => ({
   html:`
     <div class="box center welcome-panel">
       <div class="welcome-art-wrap">
-        <svg class="art" viewBox="0 0 200 200" aria-hidden="true">
-          <circle cx="100" cy="100" r="92" fill="#17171b"
-            stroke="rgba(59,44,255,.95)" stroke-width="4"/>
-          <path d="M45 120c20-50 50-70 90-45s10 70-30 60"
-            fill="none" stroke="#3b2cff" stroke-width="4"
-            stroke-linecap="round"/>
-          <circle cx="62" cy="140" r="24" fill="none"
-            stroke="#e3122c" stroke-width="4"/>
-          <circle cx="142" cy="144" r="24" fill="none"
-            stroke="#e3122c" stroke-width="4"/>
-          <path d="M55 140h14M135 144h14"
-            stroke="#e3122c" stroke-width="4"
-            stroke-linecap="round"/>
-        </svg>
+        ${logoMark('art')}
       </div>
 
       <div class="welcome-copy">
@@ -511,20 +511,7 @@ R.login = () => ({
   html:`
     <form class="box" id="lf">
       <div class="brand login-brand">
-        <svg class="brand-mark" viewBox="0 0 200 200" aria-hidden="true">
-          <circle cx="100" cy="100" r="92" fill="#15151a"
-            stroke="#3b2cff" stroke-width="4"/>
-          <path d="M45 120c20-50 50-70 90-45s10 70-30 60"
-            fill="none" stroke="#3b2cff" stroke-width="4"
-            stroke-linecap="round"/>
-          <circle cx="62" cy="140" r="24" fill="none"
-            stroke="#e3122c" stroke-width="4"/>
-          <circle cx="142" cy="144" r="24" fill="none"
-            stroke="#e3122c" stroke-width="4"/>
-          <path d="M55 140h14M135 144h14"
-            stroke="#e3122c" stroke-width="4"
-            stroke-linecap="round"/>
-        </svg>
+        ${logoMark('brand-mark')}
         Lango<b>Link</b>
       </div>
 
@@ -754,7 +741,7 @@ R.home = () => ({
   html:`
     <div class="page">
       <div class="brand">
-        <span class="lg">文A</span>Lango<b>Link</b>
+        <span class="lg">${logoMark('logo-symbol')}</span>Lango<b>Link</b>
       </div>
 
       <h1>Smart translation</h1>
